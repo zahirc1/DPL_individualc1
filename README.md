@@ -20,4 +20,5 @@ streamlit run app.py
 [Electric Vehicle Population Data](https://catalog.data.gov/dataset/electric-vehicle-population-data)
 
 ## Author
-Your Name
+ZAHIR CHAUDHERY
+
