@@ -2,11 +2,11 @@
 # Electric Vehicle Population Dashboard
 
 ## Overview
-An interactive Streamlit dashboard that visualizes EV population data from the US.
+An interactive Streamlit dashboard that visualises EV population data from the US.
 
 ## Features
 - Filters by vehicle make
-- Visualizes top EV models
+- Visualises top EV models
 - Box plot of electric range
 - Choropleth map of state distribution
 
