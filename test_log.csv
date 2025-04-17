@@ -1,6 +1,6 @@
 TC,Date,Executed by,Actual result,Pass/Fail,Notes
-TC1,2025-04-17,Your Name,App runs successfully,Pass,
-TC2,2025-04-17,Your Name,Data loads correctly,Pass,
-TC3,2025-04-17,Your Name,Make filter works,Pass,
-TC4,2025-04-17,Your Name,Charts render without errors,Pass,
-TC5,2025-04-17,Your Name,Test script runs,Pass,
+TC1,2025-04-17,Zahir Chaudhery,App runs successfully,Pass,
+TC2,2025-04-17,Zahir Chaudhery,Data loads correctly,Pass,
+TC3,2025-04-17,Zahir Chaudhery,Make filter works,Pass,
+TC4,2025-04-17,Zahir Chaudhery,Charts render without errors,Pass,
+TC5,2025-04-17,Zahir Chaudhery,Test script runs,Pass,
