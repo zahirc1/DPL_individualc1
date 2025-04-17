@@ -20,7 +20,7 @@ selected_make = st.multiselect("Select Make(s)", make_options, default=make_opti
 
 filtered_df = df[df['Make'].isin(selected_make)]
 
-# Visualizations
+# Visualisations
 st.subheader("Electric Vehicle Distribution by Model")
 model_counts = filtered_df['Model'].value_counts().reset_index()
 model_counts.columns = ['Model', 'Count']
